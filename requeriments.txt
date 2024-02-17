@@ -1,0 +1,2 @@
+yattag==1.15.2
+tinyhtml==1.2.0
