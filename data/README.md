@@ -1,1 +1,1 @@
-Example
+Empty file
